@@ -1,0 +1,22 @@
+body{
+    padding: 0px;
+    margin:0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-sizing: border-box;
+}
+.color{
+    text-align: center;
+    justify-content: center;
+    margin-top:20%;
+    display: block;
+    
+   
+}
+#hex{
+   display: block;
+    justify-content: center; 
+}
+
+.color button{
+    text-transform: uppercase;
+}
